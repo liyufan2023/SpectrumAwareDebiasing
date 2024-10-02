@@ -1,4 +1,4 @@
-# Implementation and Data for Spectrum-Aware Debiasing: A Modern Inference Framework with Applications to Principal Components Regression
+# Spectrum-Aware Debiasing: A Modern Inference Framework with Applications to Principal Components Regression
 
 This repo shares implementation code and data used for numerical experiments for the paper SPECTRUM-AWARE DEBIASING: A MODERN INFERENCE FRAMEWORK
 WITH APPLICATIONS TO PRINCIPAL COMPONENTS REGRESSION, available on arxiv https://arxiv.org/pdf/2309.07810. The implementation code and instructions for running the code for reproduction is enclosed in a Jupyter Notebook code.ipynb. 
